@@ -15,3 +15,6 @@ Madalyn C
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/m-j-61/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/coordinate-exercise.ipynb)
+
+## Spatial Analysis
+- [Cholera Maps](https://github.com/m-j-61/gis-project-portfolio-geo242/blob/main/spatial_analysis/choleraMap.ipynb)
