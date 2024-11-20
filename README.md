@@ -18,3 +18,6 @@ Madalyn C
 
 ## Spatial Analysis
 - [Cholera Maps](https://github.com/m-j-61/gis-project-portfolio-geo242/blob/main/spatial_analysis/choleraMap.ipynb)
+
+## Web-based Mapping
+-[Cholera Map]()
