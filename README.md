@@ -18,6 +18,7 @@ Madalyn C
 
 ## Spatial Analysis
 - [Cholera Maps](https://github.com/m-j-61/gis-project-portfolio-geo242/blob/main/spatial_analysis/choleraMap.ipynb)
+- [Renter Ratio Map](https://github.com/m-j-61/gis-project-portfolio-geo242/blob/main/spatial_analysis/renter_ratio_metric_assignment.ipynb)
 
 ## Web-based Mapping
 - [Replication John Snow's Cholera Map]()
